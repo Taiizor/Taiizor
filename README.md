@@ -16,7 +16,7 @@ Some of the programs on this list came from the [GitHub Education Pack](https://
 * Unity
 
 ## My Profile Statistics 📊
-[![Taiizor's GitHub Profile Guests](https://komarev.com/ghpvc/?username=Taiizor)](https://github.com/Taiizor)
+[![Taiizor's GitHub Profile Guests](https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=brightgreen)](https://github.com/Taiizor)
 <!--
   [![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=cobalt)](https://github.com/Taiizor)
   [![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=radical)](https://github.com/Taiizor)

@@ -22,4 +22,4 @@ Some of the programs on this list came from the [GitHub Education Pack](https://
 ## My Profile Statistics 📊
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=cobalt&hide=issues)](https://github.com/Taiizor)
-[![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiizor&layout=compact)](https://github.com/Taiizor?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiizor&layout=compact)](https://github.com/Taiizor?tab=repositories)

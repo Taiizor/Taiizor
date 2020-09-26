@@ -4,15 +4,15 @@ Hello! My name is Bayram! I am a high school student based in Turkey and I have 
 
 * 🌐 Website: [Click Me](https://www.taiizor.com)
 * ✉ Email: [Click Me](mailto:taiizor@soferity.com)
-* 📜 Programming Languages: **C#** - **PHP**
+* 📜 Programming Languages: **C** - **C#** - **Python** - **PHP** - **ASP** - **Java** - **JavaScript**
 
 ## Programs That I Use ❤
 
 Some of the programs on this list came from the [GitHub Education Pack](https://education.github.com)!
 
 * Visual Studio 2019
-* Unreal Engine
 * Adobe Photoshop
+* Unreal Engine
 * Unity
 
 ## My Profile Statistics 📊

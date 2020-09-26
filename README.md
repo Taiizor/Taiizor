@@ -22,4 +22,5 @@ Some of the programs on this list came from the [GitHub Education Pack](https://
   [![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=merko)](https://github.com/Taiizor)
 -->
 [![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=tokyonight)](https://github.com/Taiizor)
+[![Taiizor's GitHub Profile Guests](https://komarev.com/ghpvc/?username=Taiizor)](https://github.com/Taiizor)
 [![Taiizor's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiizor&layout=compact)](https://github.com/Taiizor?tab=repositories)

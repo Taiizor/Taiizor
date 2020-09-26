@@ -11,11 +11,12 @@ Hello! My name is Bayram! I am a high school student based in Turkey and I have 
 Some of the programs on this list came from the [GitHub Education Pack](https://education.github.com)!
 
 * Visual Studio 2019
-* Unity
+* Unreal Engine
 * Adobe Photoshop
+* Unity
 
 ## My Profile Statistics 📊
 
 [![Statistics](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=cobalt&hide=issues)](https://github.com/Taiizor)
-![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=radical)
+[!Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiizor&layout=compact)](https://github.com/Taiizor?tab=repositories)

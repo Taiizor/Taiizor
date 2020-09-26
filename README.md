@@ -4,20 +4,14 @@ Hello! My name is Bayram! I am a high school student based in Turkey and I have 
 
 * 🌐 Website: [Click Me](https://www.taiizor.com)
 * ✉ Email: [Click Me](mailto:taiizor@soferity.com)
-* ✉ Email: taiizor@soferity.com
-* 📜 Programming Languages: **C#**
+* 📜 Programming Languages: **C#** - **PHP**
 
 ## Programs That I Use ❤
 
 Some of the programs on this list came from the [GitHub Education Pack](https://education.github.com)!
 
 * Visual Studio 2019
-  * ReSharper Ultimate
 * Unity
-  * Blender
-  * JetBrains Rider
-* GitKraken
-* Bootstrap Studio
 * Adobe Photoshop
 
 ## My Profile Statistics 📊

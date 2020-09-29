@@ -18,14 +18,14 @@
 
 <p align="left">
   <p align="center">
-    <img align="center" alt="VB" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VB.png" />
+    <img align="center" alt="VB" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VB.png" />
     <img align="center" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C.png" />
     <img align="center" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C%23.png" />
     <img align="center" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Python.png" />
     <img align="center" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/PHP.png" />
     <img align="center" alt="ASP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/ASP.png" />
     <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/SQL.png" />
-    <img align="center" alt="Electron" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Electron.png" />
+    <img align="center" alt="Electron" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Electron.png" />
     <img align="center" alt="Java" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Java.png" />
     <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/HTML5.png" />
     <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/CSS3.png" />
@@ -43,7 +43,7 @@
     <img align="center" alt="Visual Studio 2019" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VisualStudio.png" />
     <img align="center" alt="Adobe Photoshop" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Photoshop.png" />
     <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/UnrealEngine.png" />
-    <img align="center" alt="Unity" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Unity.png" />
+    <img align="center" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Unity.png" />
   </p>
 </p>
 

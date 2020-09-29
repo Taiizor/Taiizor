@@ -7,23 +7,23 @@
 
 <h1 align="center">Programming Languages 📜</h1>
 
-<p align="center">
-  <img align="left" alt="VB" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VB.png" />
-  <img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C.png" />
-  <img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C%23.png" />
-  <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Python.png" />
-  <img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/PHP.png" />
-  <img align="left" alt="ASP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/ASP.png" />
-  <img align="left" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/SQL.png" />
-  <img align="left" alt="Electron" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Electron.png" />
-  <img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Java.png" />
-  <img align="left" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/HTML5.png" />
-  <img align="left" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/CSS3.png" />
-  <img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/JS.png" />
-  <img align="left" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Arduino.png" />
+<p align="left">
+  <p align="center">
+    <img align="center" alt="VB" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VB.png" />
+    <img align="center" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C.png" />
+    <img align="center" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C%23.png" />
+    <img align="center" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Python.png" />
+    <img align="center" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/PHP.png" />
+    <img align="center" alt="ASP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/ASP.png" />
+    <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/SQL.png" />
+    <img align="center" alt="Electron" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Electron.png" />
+    <img align="center" alt="Java" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Java.png" />
+    <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/HTML5.png" />
+    <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/CSS3.png" />
+    <img align="center" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/JS.png" />
+    <img align="center" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Arduino.png" />
+  </p>
 </p>
-
-<br><br>
 
 <p>
   <h1 align="center">Programs That I Use ❤</h1>

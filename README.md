@@ -7,7 +7,7 @@
 
 <h1 align="center">Programming Languages 📜</h1>
 
-<div align="center">
+<p align="center">
   <img align="left" alt="VB" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VB.png" />
   <img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C.png" />
   <img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C%23.png" />
@@ -21,16 +21,20 @@
   <img align="left" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/CSS3.png" />
   <img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/JS.png" />
   <img align="left" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Arduino.png" />
-</div>
+</p>
 
-<h1 align="center">Programs That I Use ❤</h1>
+<p align="center">
+  <h1>Programs That I Use ❤</h1>
+</p>
 
 <p align="center">Some of the programs on this list came from the <a href="https://education.github.com" target="_blank">[GitHub Education Pack]</a>!</p>
 
-* Visual Studio 2019
-* Adobe Photoshop
-* Unreal Engine
-* Unity
+<p align="center">
+  * Visual Studio 2019<br>
+  * Adobe Photoshop<br>
+  * Unreal Engine<br>
+  * Unity
+</p>
 
 <h1 align="center">My Profile Statistics 📊</h1>
 

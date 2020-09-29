@@ -25,7 +25,7 @@
 
 <h1 align="center">Programs That I Use ❤</h1>
 
-<p align="center">Some of the programs on this list came from the <a href="https://education.github.com">[GitHub Education Pack]</a>!</p>
+<p align="center">Some of the programs on this list came from the <a href="https://education.github.com" target="_blank">[GitHub Education Pack]</a>!</p>
 
 * Visual Studio 2019
 * Adobe Photoshop

@@ -8,11 +8,11 @@
   <p align="center">
     <a href="https://www.taiizor.com" target="_blank"><img align="center" alt="WebSite" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/WebSite.png" /></a>
     <a href="mailto:taiizor@soferity.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Mail.png" /></a>
+    <a href="https://www.facebook.com/ReaLTaiizor" target="_blank"><img align="center" alt="FaceBook" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/FaceBook.png" /></a>
+    <a href="https://www.Instagram.com/Taiizor" target="_blank"><img align="center" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Instagram.png" /></a>
+    <a href="https://www.Twitter.com/ReaLTaiizor" target="_blank"><img align="center" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Twitter.png" /></a>
   </p>
 </p>
-
-* 🌐 Website: [Click Me](https://www.taiizor.com)
-* ✉ Email: [Click Me](mailto:taiizor@soferity.com)
 
 <h1 align="center">Programming Languages 📜</h1>
 

@@ -1,11 +1,11 @@
-## Hello World! 👋
+<h1 align="center">Hello World! 👋</h1>
 
-Hello! My name is Bayram! I am a university student based in Turkey and I have a hobby of creating projects that could benefit or be useful in any scenario. But I am really bad at maintaining them because I always look forward to creating something new, so if you want to contribute to my projects then feel free to do so! I've self-taught myself how to program and it took me a month and a half with absolute focus to learn C# (and .NET). My dream is to be... well, I don't know yet.
+<p align="center">Hello! My name is Bayram! I am a university student based in Turkey and I have a hobby of creating projects that could benefit or be useful in any scenario. But I am really bad at maintaining them because I always look forward to creating something new, so if you want to contribute to my projects then feel free to do so! I've self-taught myself how to program and it took me a month and a half with absolute focus to learn C# (and .NET). My dream is to be... well, I don't know yet.</p>
 
 * 🌐 Website: [Click Me](https://www.taiizor.com)
 * ✉ Email: [Click Me](mailto:taiizor@soferity.com)
 
-## Programming Languages 📜
+<h1 align="center">Programming Languages 📜</h1>
 
 <img align="left" alt="VB" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VB.png" />
 <img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C.png" />
@@ -21,9 +21,7 @@ Hello! My name is Bayram! I am a university student based in Turkey and I have a
 <img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/JS.png" />
 <img align="left" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Arduino.png" />
 
-<br><br>
-
-## Programs That I Use ❤
+<h1 align="center">Programs That I Use ❤</h1>
 
 Some of the programs on this list came from the [GitHub Education Pack](https://education.github.com)!
 
@@ -32,7 +30,9 @@ Some of the programs on this list came from the [GitHub Education Pack](https://
 * Unreal Engine
 * Unity
 
-## My Profile Statistics 📊
+<h1 align="center">My Profile Statistics 📊</h1>
+
+<p align="center"><img href="https://github.com/Taiizor" src="https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=2984CC&style=flat" alt="Taiizor's GitHub Profile Guests"/></p>
 [![Taiizor's GitHub Profile Guests](https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=2984CC&style=flat)](https://github.com/Taiizor)
 <!--
   [![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=cobalt)](https://github.com/Taiizor)

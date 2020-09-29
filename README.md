@@ -38,8 +38,6 @@
   <h1 align="center">Programs That I Use 💖</h1>
 </p>
 
-<p align="center">Some of the programs on this list came from the <a href="https://education.github.com" target="_blank">[GitHub Education Pack]</a>!</p>
-
 <p align="left">
   <p align="center">
     <img align="center" alt="Visual Studio 2019" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VisualStudio.png" />

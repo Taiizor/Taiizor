@@ -23,8 +23,10 @@
   <img align="left" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Arduino.png" />
 </p>
 
-<p align="center">
-  <h1>Programs That I Use ❤</h1>
+<br><br>
+
+<p>
+  <h1 align="center">Programs That I Use ❤</h1>
 </p>
 
 <p align="center">Some of the programs on this list came from the <a href="https://education.github.com" target="_blank">[GitHub Education Pack]</a>!</p>

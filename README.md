@@ -4,7 +4,20 @@ Hello! My name is Bayram! I am a university student based in Turkey and I have a
 
 * 🌐 Website: [Click Me](https://www.taiizor.com)
 * ✉ Email: [Click Me](mailto:taiizor@soferity.com)
-* 📜 Programming Languages: **C** - **C#** - **Python** - **PHP** - **ASP** - **Java** - **JavaScript**
+
+## Programming Languages 📜
+
+<img align="left" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C.png" />
+<img align="left" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C%23.png" />
+<img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Python.png" />
+<img align="left" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/PHP.png" />
+<img align="left" alt="ASP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/ASP.png" />
+<img align="left" alt="Java" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Java.png" />
+<img align="left" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/HTML5.png" />
+<img align="left" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/CSS3.png" />
+<img align="left" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/JS.png" />
+
+<br />
 
 ## Programs That I Use ❤
 

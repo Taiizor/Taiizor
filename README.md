@@ -32,12 +32,6 @@ Some of the programs on this list came from the [GitHub Education Pack](https://
 
 <h1 align="center">My Profile Statistics 📊</h1>
 
-<p align="center"><img href="https://github.com/Taiizor" src="https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=2984CC&style=flat" alt="Taiizor's GitHub Profile Guests"/></p>
-[![Taiizor's GitHub Profile Guests](https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=2984CC&style=flat)](https://github.com/Taiizor)
-<!--
-  [![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=cobalt)](https://github.com/Taiizor)
-  [![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=radical)](https://github.com/Taiizor)
-  [![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=merko)](https://github.com/Taiizor)
--->
-[![Taiizor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)](https://github.com/Taiizor)
-[![Taiizor's GitHub Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taiizor&layout=compact)](https://github.com/Taiizor?tab=repositories)
+<p align="center"><a href="https://github.com/Taiizor"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=2984CC&style=flat" alt="Taiizor's GitHub Profile Guests"/></a></p>
+<a href="https://github.com/Taiizor"><img src="https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Taiizor's GitHub Stats"/></a>
+<a href="https://github.com/Taiizor?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiizor&layout=compact" alt="Taiizor's GitHub Top Langs"/></a>

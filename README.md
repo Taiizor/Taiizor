@@ -40,11 +40,13 @@
 
 <p align="center">Some of the programs on this list came from the <a href="https://education.github.com" target="_blank">[GitHub Education Pack]</a>!</p>
 
-<p align="center">
-  * Visual Studio 2019<br>
-  * Adobe Photoshop<br>
-  * Unreal Engine<br>
-  * Unity
+<p align="left">
+  <p align="center">
+    <img align="center" alt="Visual Studio 2019" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VisualStudio.png" />
+    <img align="center" alt="Adobe Photoshop" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Photoshop.png" />
+    <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/UnrealEngine.png" />
+    <img align="center" alt="Unity" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Unity.png" />
+  </p>
 </p>
 
 <h1 align="center">My Profile Statistics 📊</h1>

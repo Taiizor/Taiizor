@@ -1,6 +1,15 @@
-<h1 align="center">Hello Universe! 👋</h1>
+<h1 align="center">Hello Universe! 🚀</h1>
 
 <p align="center">Hello! My name is Bayram! I am a university student based in Turkey and I have a hobby of creating projects that could benefit or be useful in any scenario. But I am really bad at maintaining them because I always look forward to creating something new, so if you want to contribute to my projects then feel free to do so! I've self-taught myself how to program and it took me a month and a half with absolute focus to learn C# (and .NET). My dream is to be... well, I don't know yet.</p>
+
+<h1 align="center">Connect With Me 📬</h1>
+
+<p align="left">
+  <p align="center">
+    <img align="center" alt="WebSite" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/WebSite.png" href="https://www.taiizor.com" target="_blank" />
+    <img align="center" alt="Mail" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Mail.png" href="mailto:taiizor@soferity.com" target="_blank" />
+  </p>
+</p>
 
 * 🌐 Website: [Click Me](https://www.taiizor.com)
 * ✉ Email: [Click Me](mailto:taiizor@soferity.com)
@@ -26,7 +35,7 @@
 </p>
 
 <p>
-  <h1 align="center">Programs That I Use ❤</h1>
+  <h1 align="center">Programs That I Use 💖</h1>
 </p>
 
 <p align="center">Some of the programs on this list came from the <a href="https://education.github.com" target="_blank">[GitHub Education Pack]</a>!</p>

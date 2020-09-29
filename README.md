@@ -6,8 +6,8 @@
 
 <p align="left">
   <p align="center">
-    <img align="center" alt="WebSite" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/WebSite.png" href="https://www.taiizor.com" target="_blank" />
-    <img align="center" alt="Mail" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Mail.png" href="mailto:taiizor@soferity.com" target="_blank" />
+    <a href="https://www.taiizor.com" target="_blank"><img align="center" alt="WebSite" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/WebSite.png" /></a>
+    <a href="mailto:taiizor@soferity.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Mail.png" /></a>
   </p>
 </p>
 

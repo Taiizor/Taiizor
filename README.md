@@ -54,4 +54,6 @@
 <p align="center">
   <a href="https://github.com/Taiizor"><img src="https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Taiizor's GitHub Stats"/></a>
   <a href="https://github.com/Taiizor?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiizor&layout=compact" alt="Taiizor's GitHub Top Langs"/></a>
+  <a href="https://github.com/Taiizor"><img src="https://github-profile-trophy.vercel.app/?username=Taiizor&theme=onedark" alt="Taiizor's GitHub Pprofile Trophy"/></a>
+  <a href="https://github.com/Taiizor"><img src="https://github-profile-trophy.vercel.app/?username=Taiizor&theme=onedark&column=3&margin-w=15&margin-h=15&no-bg=true" alt="Taiizor's GitHub Pprofile Trophy"/></a>
 </p>

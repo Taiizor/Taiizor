@@ -22,8 +22,8 @@
     <img align="center" alt="VB" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VB.png" />
     <img align="center" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C.png" />
     <img align="center" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C%23.png" />
-    <img align="center" alt="Blazor" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Blazor.png" />
     <img align="center" alt="ASP.NET-Core" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Asp.NET-Core.png" />
+    <img align="center" alt="Blazor" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Blazor.png" />
     <img align="center" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Python.png" />
     <img align="center" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/PHP.png" />
     <img align="center" alt="ASP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/ASP.png" />

@@ -11,7 +11,7 @@
     <a href="https://www.facebook.com/ReaLTaiizor" target="_blank"><img align="center" alt="FaceBook" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/FaceBook.png" /></a>
     <a href="https://www.instagram.com/Taiizor" target="_blank"><img align="center" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Instagram.png" /></a>
     <a href="https://www.twitter.com/ReaLTaiizor" target="_blank"><img align="center" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Twitter.png" /></a>
-    <a href="https://www.linkedin.com/in/taiizor" target="_blank"><img align="center" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/LinkedIn.png" /></a>
+    <a href="https://www.linkedin.com/in/Taiizor" target="_blank"><img align="center" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/LinkedIn.png" /></a>
   </p>
 </p>
 

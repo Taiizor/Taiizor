@@ -44,9 +44,9 @@
 
 <p align="left">
   <p align="center">
-    <img align="center" alt="Visual Studio Mac" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VSM.png" />
-    <img align="center" alt="Visual Studio 2022" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VS22.png" />
-    <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VSC.png" />
+    <img align="center" alt="Visual Studio 2022" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VisualStudio2022.png" />
+    <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VisualStudioCode.png" />
+    <img align="center" alt="Visual Studio Mac" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VisualStudioMac.png" />
     <img align="center" alt="Adobe Photoshop" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Photoshop.png" />
     <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/UnrealEngine.png" />
     <img align="center" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Unity.png" />

@@ -6,13 +6,13 @@
 
 <p align="left">
   <p align="center">
-    <a href="https://www.youtube.com/@iTaiizor" target="_blank"><img align="center" alt="YouTube" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/YouTube.png" /></a>
-    <!--<a href="https://www.vegalya.com" target="_blank"><img align="center" alt="WebSite" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/WebSite.png" /></a>
-    <a href="mailto:taiizor@vegalya.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/MailSend.png" /></a>-->
-    <a href="https://www.facebook.com/ReaLTaiizor" target="_blank"><img align="center" alt="FaceBook" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/FaceBook.png" /></a>
-    <a href="https://www.instagram.com/Taiizor" target="_blank"><img align="center" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Instagram.png" /></a>
-    <a href="https://www.twitter.com/ReaLTaiizor" target="_blank"><img align="center" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Twitter.png" /></a>
-    <a href="https://www.linkedin.com/in/Taiizor" target="_blank"><img align="center" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/LinkedIn.png" /></a>
+    <a href="https://www.youtube.com/@iTaiizor" target="_blank"><img align="center" alt="YouTube" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/YouTube.png" /></a>
+    <!--<a href="https://www.vegalya.com" target="_blank"><img align="center" alt="WebSite" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/WebSite.png" /></a>
+    <a href="mailto:taiizor@vegalya.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/MailSend.png" /></a>-->
+    <a href="https://www.facebook.com/ReaLTaiizor" target="_blank"><img align="center" alt="FaceBook" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/FaceBook.png" /></a>
+    <a href="https://www.instagram.com/Taiizor" target="_blank"><img align="center" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Instagram.png" /></a>
+    <a href="https://www.twitter.com/ReaLTaiizor" target="_blank"><img align="center" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Twitter.png" /></a>
+    <a href="https://www.linkedin.com/in/Taiizor" target="_blank"><img align="center" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/LinkedIn.png" /></a>
   </p>
 </p>
 
@@ -20,21 +20,21 @@
 
 <p align="left">
   <p align="center">
-    <img align="center" alt="VB" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VB.png" />
-    <img align="center" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C.png" />
-    <img align="center" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/C%23.png" />
-    <img align="center" alt="ASP.NET-Core" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Asp.NET-Core.png" />
-    <img align="center" alt="Blazor" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Blazor.png" />
-    <img align="center" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Python.png" />
-    <img align="center" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/PHP.png" />
-    <img align="center" alt="ASP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/ASP.png" />
-    <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/SQL.png" />
-    <img align="center" alt="Electron" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Electron.png" />
-    <img align="center" alt="Java" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Java.png" />
-    <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/HTML5.png" />
-    <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/CSS3.png" />
-    <img align="center" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/JS.png" />
-    <img align="center" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Arduino.png" />
+    <img align="center" alt="VB" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VB.png" />
+    <img align="center" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/C.png" />
+    <img align="center" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/C%23.png" />
+    <img align="center" alt="ASP.NET-Core" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Asp.NET-Core.png" />
+    <img align="center" alt="Blazor" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Blazor.png" />
+    <img align="center" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Python.png" />
+    <img align="center" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/PHP.png" />
+    <img align="center" alt="ASP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/ASP.png" />
+    <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/SQL.png" />
+    <img align="center" alt="Electron" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Electron.png" />
+    <img align="center" alt="Java" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Java.png" />
+    <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/HTML5.png" />
+    <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/CSS3.png" />
+    <img align="center" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/JS.png" />
+    <img align="center" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Arduino.png" />
   </p>
 </p>
 
@@ -44,12 +44,12 @@
 
 <p align="left">
   <p align="center">
-    <img align="center" alt="Visual Studio 2022" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VisualStudio2022.png" />
-    <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VisualStudioCode.png" />
-    <img align="center" alt="Visual Studio Mac" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/VisualStudioMac.png" />
-    <img align="center" alt="Adobe Photoshop" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Photoshop.png" />
-    <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/UnrealEngine.png" />
-    <img align="center" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/master/.images/Unity.png" />
+    <img align="center" alt="Visual Studio 2022" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudio2022.png" />
+    <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudioCode.png" />
+    <img align="center" alt="Visual Studio Mac" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudioMac.png" />
+    <img align="center" alt="Adobe Photoshop" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Photoshop.png" />
+    <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/UnrealEngine.png" />
+    <img align="center" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Unity.png" />
   </p>
 </p>
 

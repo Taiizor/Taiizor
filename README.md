@@ -35,7 +35,6 @@
     <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/HTML5.png" />
     <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/CSS3.png" />
     <img align="center" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/JS.png" />
-    <img align="center" alt="Arduino" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Arduino.png" />
   </p>
 </p>
 

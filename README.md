@@ -31,7 +31,6 @@
     <img align="center" alt="ASP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/ASP.png" />
     <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/SQL.png" />
     <img align="center" alt="Electron" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Electron.png" />
-    <img align="center" alt="Java" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Java.png" />
     <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/HTML5.png" />
     <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/CSS3.png" />
     <img align="center" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/JS.png" />

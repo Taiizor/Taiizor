@@ -6,9 +6,9 @@
 
 <p align="left">
   <p align="center">
+    <a href="mailto:taiizor@vegalya.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Email.png" /></a>
     <a href="https://www.youtube.com/@iTaiizor" target="_blank"><img align="center" alt="YouTube" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/YouTube.png" /></a>
-    <!--<a href="https://www.vegalya.com" target="_blank"><img align="center" alt="WebSite" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/WebSite.png" /></a>
-    <a href="mailto:taiizor@vegalya.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/MailSend.png" /></a>-->
+    <!--<a href="https://www.vegalya.com" target="_blank"><img align="center" alt="WebSite" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/WebSite.png" /></a>-->
     <a href="https://www.facebook.com/iTaiizor" target="_blank"><img align="center" alt="FaceBook" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/FaceBook.png" /></a>
     <a href="https://www.instagram.com/Taiizor" target="_blank"><img align="center" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Instagram.png" /></a>
     <a href="https://www.twitter.com/iTaiizor" target="_blank"><img align="center" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Twitter.png" /></a>

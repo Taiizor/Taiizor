@@ -17,7 +17,7 @@
   </p>
 </p>
 
-<h1 align="center">Programming Languages 📜</h1>
+<h1 align="center">Technology & Languages 📜</h1>
 
 <p align="left">
   <p align="center">

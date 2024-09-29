@@ -16,8 +16,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
-          run: |
-              git config user.name github-actions
-              git config user.email github-actions@github.com
-              git add -A .
-              git diff --staged --exit-code || (git commit -m "Generated 3D Profile" && git push)
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          git diff --staged --exit-code || (git commit -m "Generated 3D Profile" && git push)

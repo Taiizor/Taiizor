@@ -27,7 +27,6 @@
     <img align="center" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/C%23.png" />
     <img align="center" alt="ASP.NET Core" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Asp.NET-Core.png" />
     <img align="center" alt="Blazor" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Blazor.png" />
-    <img align="center" alt="Docker" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Docker.png" />
     <img align="center" alt=".NET Aspire" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Aspire.png" />
     <img align="center" alt="MAUI" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/MAUI2.png" />
     <img align="center" alt="Avalonia" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Avalonia.png" />
@@ -54,6 +53,7 @@
     <img align="center" alt="Adobe Photoshop" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Photoshop.png" />
     <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/UnrealEngine.png" />
     <img align="center" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Unity.png" />
+    <img align="center" alt="Docker" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Docker.png" />
   </p>
 </p>
 

@@ -39,7 +39,8 @@
     <img align="center" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VueJS.png" />
     <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/HTML5.png" />
     <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/CSS3.png" />
-    <img align="center" alt="JS" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/JS.png" />
+    <img align="center" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/TypeScript.png" />
+    <img align="center" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/JavaScript.png" />
   </p>
 </p>
 

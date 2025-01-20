@@ -34,7 +34,6 @@
     <img align="center" alt="Uno Platform" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Uno.png" />
     <img align="center" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Python.png" />
     <img align="center" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/PHP.png" />
-    <img align="center" alt="ASP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/ASP.png" />
     <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/SQL.png" />
     <img align="center" alt="Electron" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Electron.png" />
     <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/HTML5.png" />

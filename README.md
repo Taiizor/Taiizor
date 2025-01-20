@@ -50,10 +50,10 @@
     <img align="center" alt="Visual Studio 2022" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudio2022.png" />
     <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudioCode.png" />
     <img align="center" alt="Visual Studio Mac" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudioMac.png" />
+    <img align="center" alt="Docker" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Docker.png" />
     <img align="center" alt="Adobe Photoshop" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Photoshop.png" />
     <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/UnrealEngine.png" />
     <img align="center" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Unity.png" />
-    <img align="center" alt="Docker" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Docker.png" />
   </p>
 </p>
 

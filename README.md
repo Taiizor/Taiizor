@@ -36,6 +36,7 @@
     <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/SQL.png" />
     <img align="center" alt="Electron" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Electron.png" />
     <img align="center" alt="React Native" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/ReactNative.png" />
+    <img align="center" alt="Next.js" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/NextJS.png" />
     <img align="center" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VueJS.png" />
     <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/HTML5.png" />
     <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/CSS3.png" />

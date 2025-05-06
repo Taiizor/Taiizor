@@ -69,6 +69,7 @@
   <a href="https://github.com/Taiizor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Taiizor&theme=tokyonight&hide_border=false&stroke=0000" alt="Taiizor's GitHub Streak Stats"/></a>
   <br />
   <a href="https://github.com/Taiizor"><img src="https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Taiizor's GitHub Stats"/></a>
+  <!--<a href="https://github.com/Taiizor"><img src="https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Taiizor's GitHub Stats"/></a>-->
   <br />
   <a href="https://github.com/Taiizor?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taiizor&layout=compact&theme=tokyonight&langs_count=8" alt="Taiizor's GitHub Top Langs"/></a>
 </p>

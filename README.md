@@ -36,7 +36,7 @@
     <img align="center" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/PHP.png" />
     <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/SQL.png" />
     <img align="center" alt="Electron" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Electron.png" />
-    <img align="center" alt="Go" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/GoLangOfficial.png" />
+    <img align="center" alt="Go" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/GoLang.png" />
     <img align="center" alt="Rust" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/RustLang.png" />
     <img align="center" alt="React Native" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/ReactNative.png" />
     <img align="center" alt="Next.js" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/NextJS.png" />

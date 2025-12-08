@@ -69,7 +69,7 @@
 <p align="center">
   <a href="https://github.com/Taiizor"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=2984CC&style=flat" alt="Taiizor's GitHub Profile Guests"/></a>
   <br />
-  <a href="https://github.com/Taiizor"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Taiizor&theme=tokyonight&hide_border=false&stroke=0000" alt="Taiizor's GitHub Streak Stats"/></a>
+  <a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/streak.svg" alt="Taiizor's GitHub Streak Stats"/></a>
   <br />
   <a href="https://github.com/Taiizor"><img src="https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Taiizor's GitHub Stats"/></a>
   <!--<a href="https://github.com/Taiizor"><img src="https://github-readme-stats.vercel.app/api?username=Taiizor&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Taiizor's GitHub Stats"/></a>-->

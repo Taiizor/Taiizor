@@ -1,0 +1,198 @@
+name: Generate GitHub Stats
+
+on:
+  # Run daily at midnight UTC
+  schedule:
+    - cron: '0 0 * * *'
+  
+  # Allow manual trigger
+  workflow_dispatch:
+  
+  # Run when config changes
+  push:
+    paths:
+      - 'stats.config.json'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate Stats Cards
+    
+    steps:
+      - name: Checkout your repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+      
+      - name: Clone github-readme-stats
+        run: |
+          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git grs-temp
+      
+      - name: Clone github-readme-streak-stats
+        run: |
+          git clone --depth 1 https://github.com/DenverCoder1/github-readme-streak-stats.git streak-temp
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+      
+      - name: Install Node dependencies
+        run: |
+          cd grs-temp
+          npm ci
+      
+      - name: Install PHP dependencies
+        run: |
+          cd streak-temp
+          composer install --no-dev --optimize-autoloader || true
+      
+      - name: Read config and generate cards
+        env:
+          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          # Start the Node.js server in background
+          cd grs-temp
+          node express.js &
+          GRS_PID=$!
+          cd ..
+          
+          # Start PHP built-in server for streak stats (from src/ directory)
+          # Create .env file with TOKEN for streak-stats
+          echo "TOKEN=$TOKEN" > streak-temp/.env
+          cd streak-temp/src
+          php -S localhost:8080 &
+          STREAK_PID=$!
+          cd ../..
+          
+          # Wait for servers to start
+          sleep 3
+          
+          # Create output directory
+          mkdir -p generated-stats
+          
+          # Read config
+          CONFIG=$(cat stats.config.json)
+          USERNAME=$(echo "$CONFIG" | jq -r '.username')
+          
+          echo "👤 Username: $USERNAME"
+          echo ""
+          
+          # ===== STATS CARD =====
+          STATS_ENABLED=$(echo "$CONFIG" | jq -r '.cards.stats.enabled // true')
+          if [ "$STATS_ENABLED" = "true" ]; then
+            STATS_FILENAME=$(echo "$CONFIG" | jq -r '.cards.stats.filename // "stats.svg"')
+            STATS_THEME=$(echo "$CONFIG" | jq -r '.cards.stats.options.theme // "default"')
+            STATS_SHOW_ICONS=$(echo "$CONFIG" | jq -r '.cards.stats.options.show_icons // false')
+            STATS_HIDE_BORDER=$(echo "$CONFIG" | jq -r '.cards.stats.options.hide_border // false')
+            STATS_INCLUDE_ALL=$(echo "$CONFIG" | jq -r '.cards.stats.options.include_all_commits // false')
+            STATS_COUNT_PRIVATE=$(echo "$CONFIG" | jq -r '.cards.stats.options.count_private // false')
+            
+            URL="http://localhost:9000/api?username=${USERNAME}&theme=${STATS_THEME}&show_icons=${STATS_SHOW_ICONS}&hide_border=${STATS_HIDE_BORDER}&include_all_commits=${STATS_INCLUDE_ALL}&count_private=${STATS_COUNT_PRIVATE}"
+            echo "📊 Generating stats card..."
+            curl -s "$URL" -o "generated-stats/${STATS_FILENAME}"
+            echo "✅ Generated: ${STATS_FILENAME}"
+          fi
+          
+          # ===== STATS EXTENDED CARD =====
+          STATS_EXT_ENABLED=$(echo "$CONFIG" | jq -r '.cards.stats_extended.enabled // false')
+          if [ "$STATS_EXT_ENABLED" = "true" ]; then
+            STATS_EXT_FILENAME=$(echo "$CONFIG" | jq -r '.cards.stats_extended.filename // "stats-extended.svg"')
+            STATS_EXT_THEME=$(echo "$CONFIG" | jq -r '.cards.stats_extended.options.theme // "default"')
+            STATS_EXT_SHOW_ICONS=$(echo "$CONFIG" | jq -r '.cards.stats_extended.options.show_icons // false')
+            STATS_EXT_HIDE_BORDER=$(echo "$CONFIG" | jq -r '.cards.stats_extended.options.hide_border // false')
+            STATS_EXT_INCLUDE_ALL=$(echo "$CONFIG" | jq -r '.cards.stats_extended.options.include_all_commits // false')
+            STATS_EXT_COUNT_PRIVATE=$(echo "$CONFIG" | jq -r '.cards.stats_extended.options.count_private // false')
+            STATS_EXT_SHOW=$(echo "$CONFIG" | jq -r '.cards.stats_extended.options.show | if . then join(",") else "" end')
+            
+            URL="http://localhost:9000/api?username=${USERNAME}&theme=${STATS_EXT_THEME}&show_icons=${STATS_EXT_SHOW_ICONS}&hide_border=${STATS_EXT_HIDE_BORDER}&include_all_commits=${STATS_EXT_INCLUDE_ALL}&count_private=${STATS_EXT_COUNT_PRIVATE}&show=${STATS_EXT_SHOW}"
+            echo "📊 Generating extended stats card..."
+            curl -s "$URL" -o "generated-stats/${STATS_EXT_FILENAME}"
+            echo "✅ Generated: ${STATS_EXT_FILENAME}"
+          fi
+          
+          # ===== TOP LANGUAGES CARD =====
+          LANGS_ENABLED=$(echo "$CONFIG" | jq -r '.cards.top_languages.enabled // true')
+          if [ "$LANGS_ENABLED" = "true" ]; then
+            LANGS_FILENAME=$(echo "$CONFIG" | jq -r '.cards.top_languages.filename // "top-langs.svg"')
+            LANGS_THEME=$(echo "$CONFIG" | jq -r '.cards.top_languages.options.theme // "default"')
+            LANGS_LAYOUT=$(echo "$CONFIG" | jq -r '.cards.top_languages.options.layout // "normal"')
+            LANGS_COUNT=$(echo "$CONFIG" | jq -r '.cards.top_languages.options.langs_count // 5')
+            LANGS_HIDE_BORDER=$(echo "$CONFIG" | jq -r '.cards.top_languages.options.hide_border // false')
+            
+            URL="http://localhost:9000/api/top-langs?username=${USERNAME}&theme=${LANGS_THEME}&layout=${LANGS_LAYOUT}&langs_count=${LANGS_COUNT}&hide_border=${LANGS_HIDE_BORDER}"
+            echo "💻 Generating top languages card..."
+            curl -s "$URL" -o "generated-stats/${LANGS_FILENAME}"
+            echo "✅ Generated: ${LANGS_FILENAME}"
+          fi
+          
+          # ===== STREAK STATS (local PHP server) =====
+          STREAK_ENABLED=$(echo "$CONFIG" | jq -r '.cards.streak.enabled // false')
+          if [ "$STREAK_ENABLED" = "true" ]; then
+            STREAK_FILENAME=$(echo "$CONFIG" | jq -r '.cards.streak.filename // "streak.svg"')
+            STREAK_THEME=$(echo "$CONFIG" | jq -r '.cards.streak.options.theme // "default"')
+            STREAK_HIDE_BORDER=$(echo "$CONFIG" | jq -r '.cards.streak.options.hide_border // false')
+            STREAK_STROKE=$(echo "$CONFIG" | jq -r '.cards.streak.options.stroke // ""')
+            
+            URL="http://localhost:8080/index.php?user=${USERNAME}&theme=${STREAK_THEME}&hide_border=${STREAK_HIDE_BORDER}&stroke=${STREAK_STROKE}"
+            echo "🔥 Generating streak stats card..."
+            curl -s "$URL" -o "generated-stats/${STREAK_FILENAME}"
+            echo "✅ Generated: ${STREAK_FILENAME}"
+          fi
+          
+          # ===== REPO CARDS =====
+          REPOS=$(echo "$CONFIG" | jq -c '.cards.repos // []')
+          if [ "$REPOS" != "[]" ] && [ "$REPOS" != "null" ]; then
+            echo "$REPOS" | jq -c '.[]' | while read -r REPO_CONFIG; do
+              REPO_ENABLED=$(echo "$REPO_CONFIG" | jq -r '.enabled // true')
+              if [ "$REPO_ENABLED" = "true" ]; then
+                REPO_NAME=$(echo "$REPO_CONFIG" | jq -r '.repo')
+                REPO_FILENAME=$(echo "$REPO_CONFIG" | jq -r '.filename // (.repo + ".svg")')
+                REPO_THEME=$(echo "$REPO_CONFIG" | jq -r '.options.theme // "default"')
+                
+                URL="http://localhost:9000/api/pin?username=${USERNAME}&repo=${REPO_NAME}&theme=${REPO_THEME}"
+                echo "📦 Generating repo card for: ${REPO_NAME}..."
+                curl -s "$URL" -o "generated-stats/${REPO_FILENAME}"
+                echo "✅ Generated: ${REPO_FILENAME}"
+              fi
+            done
+          fi
+          
+          # Stop the servers
+          kill $GRS_PID 2>/dev/null || true
+          kill $STREAK_PID 2>/dev/null || true
+          
+          echo ""
+          echo "✨ Card generation complete!"
+      
+      - name: Cleanup
+        run: |
+          rm -rf grs-temp
+          rm -rf streak-temp
+      
+      - name: Check for changes
+        id: git-check
+        run: |
+          git add generated-stats/
+          if git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+      
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config user.name Taiizor
+          git config user.email 41683699+Taiizor@users.noreply.github.com
+          git commit -m "📊 Update GitHub stats cards"
+          git push

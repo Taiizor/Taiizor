@@ -1,0 +1,53 @@
+{
+  "username": "Taiizor",
+  "output_directory": "./generated-stats",
+  "cards": {
+    "stats": {
+      "enabled": true,
+      "filename": "stats.svg",
+      "options": {
+        "theme": "tokyonight",
+        "show_icons": true,
+        "count_private": true,
+        "include_all_commits": true,
+        "hide_border": false
+      }
+    },
+    "stats_extended": {
+      "enabled": true,
+      "filename": "stats-extended.svg",
+      "options": {
+        "theme": "tokyonight",
+        "show_icons": true,
+        "count_private": true,
+        "include_all_commits": true,
+        "hide_border": false,
+        "show": ["reviews", "discussions_started", "discussions_answered", "prs_merged", "prs_merged_percentage"]
+      }
+    },
+    "top_languages": {
+      "enabled": true,
+      "filename": "top-langs.svg",
+      "options": {
+        "theme": "tokyonight",
+        "layout": "compact",
+        "langs_count": 8,
+        "hide_border": false
+      }
+    },
+    "streak": {
+      "enabled": true,
+      "filename": "streak.svg",
+      "options": {
+        "theme": "tokyonight",
+        "hide_border": false,
+        "stroke": "0000"
+      }
+    },
+    "repos": [],
+    "gists": [],
+    "wakatime": {
+      "enabled": false
+    }
+  }
+}

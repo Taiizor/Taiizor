@@ -3,15 +3,15 @@ name: Generate GitHub Stats
 on:
   # Run daily at midnight UTC
   schedule:
-    - cron: '0 0 * * *'
-  
+    - cron: "0 0 * * *"
+
   # Allow manual trigger
   workflow_dispatch:
-  
+
   # Run when config changes
   push:
     paths:
-      - 'stats.config.json'
+      - "stats.config.json"
 
 permissions:
   contents: write
@@ -20,41 +20,50 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     name: Generate Stats Cards
-    
+
     steps:
       - name: Checkout your repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-      
+
       - name: Clone github-readme-stats
         run: |
           git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git grs-temp
-      
+
       - name: Clone github-readme-streak-stats
         run: |
           git clone --depth 1 https://github.com/DenverCoder1/github-readme-streak-stats.git streak-temp
-      
+
+      - name: Clone github-profile-trophy
+        run: |
+          git clone --depth 1 https://github.com/ryo-ma/github-profile-trophy.git trophy-temp
+
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '22'
-      
+          node-version: "22"
+
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '8.2'
-      
+          php-version: "8.2"
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
       - name: Install Node dependencies
         run: |
           cd grs-temp
           npm ci
-      
+
       - name: Install PHP dependencies
         run: |
           cd streak-temp
           composer install --no-dev --optimize-autoloader || true
-      
+
       - name: Read config and generate cards
         env:
           PAT_1: ${{ secrets.GITHUB_TOKEN }}
@@ -65,7 +74,7 @@ jobs:
           node express.js &
           GRS_PID=$!
           cd ..
-          
+
           # Start PHP built-in server for streak stats (from src/ directory)
           # Create .env file with TOKEN for streak-stats
           echo "TOKEN=$TOKEN" > streak-temp/.env
@@ -73,20 +82,26 @@ jobs:
           php -S localhost:8080 &
           STREAK_PID=$!
           cd ../..
-          
+
+          # Start Deno server for trophy (port 8081)
+          cd trophy-temp
+          PORT=8081 GITHUB_TOKEN=$TOKEN deno run -A main.ts &
+          TROPHY_PID=$!
+          cd ..
+
           # Wait for servers to start
-          sleep 3
-          
+          sleep 5
+
           # Create output directory
           mkdir -p generated-stats
-          
+
           # Read config
           CONFIG=$(cat stats.config.json)
           USERNAME=$(echo "$CONFIG" | jq -r '.username')
-          
+
           echo "👤 Username: $USERNAME"
           echo ""
-          
+
           # ===== STATS CARD =====
           STATS_ENABLED=$(echo "$CONFIG" | jq -r '.cards.stats.enabled // true')
           if [ "$STATS_ENABLED" = "true" ]; then
@@ -102,7 +117,7 @@ jobs:
             curl -s "$URL" -o "generated-stats/${STATS_FILENAME}"
             echo "✅ Generated: ${STATS_FILENAME}"
           fi
-          
+
           # ===== STATS EXTENDED CARD =====
           STATS_EXT_ENABLED=$(echo "$CONFIG" | jq -r '.cards.stats_extended.enabled // false')
           if [ "$STATS_EXT_ENABLED" = "true" ]; then
@@ -119,7 +134,7 @@ jobs:
             curl -s "$URL" -o "generated-stats/${STATS_EXT_FILENAME}"
             echo "✅ Generated: ${STATS_EXT_FILENAME}"
           fi
-          
+
           # ===== TOP LANGUAGES CARD =====
           LANGS_ENABLED=$(echo "$CONFIG" | jq -r '.cards.top_languages.enabled // true')
           if [ "$LANGS_ENABLED" = "true" ]; then
@@ -134,7 +149,7 @@ jobs:
             curl -s "$URL" -o "generated-stats/${LANGS_FILENAME}"
             echo "✅ Generated: ${LANGS_FILENAME}"
           fi
-          
+
           # ===== STREAK STATS (local PHP server) =====
           STREAK_ENABLED=$(echo "$CONFIG" | jq -r '.cards.streak.enabled // false')
           if [ "$STREAK_ENABLED" = "true" ]; then
@@ -148,7 +163,7 @@ jobs:
             curl -s "$URL" -o "generated-stats/${STREAK_FILENAME}"
             echo "✅ Generated: ${STREAK_FILENAME}"
           fi
-          
+
           # ===== REPO CARDS =====
           REPOS=$(echo "$CONFIG" | jq -c '.cards.repos // []')
           if [ "$REPOS" != "[]" ] && [ "$REPOS" != "null" ]; then
@@ -166,19 +181,37 @@ jobs:
               fi
             done
           fi
-          
+
+          # ===== TROPHY CARD =====
+          TROPHY_ENABLED=$(echo "$CONFIG" | jq -r '.cards.trophy.enabled // false')
+          if [ "$TROPHY_ENABLED" = "true" ]; then
+            TROPHY_FILENAME=$(echo "$CONFIG" | jq -r '.cards.trophy.filename // "trophy.svg"')
+            TROPHY_THEME=$(echo "$CONFIG" | jq -r '.cards.trophy.options.theme // "default"')
+            TROPHY_NO_BG=$(echo "$CONFIG" | jq -r '.cards.trophy.options.no_bg // false')
+            TROPHY_NO_FRAME=$(echo "$CONFIG" | jq -r '.cards.trophy.options.no_frame // false')
+            TROPHY_ROW=$(echo "$CONFIG" | jq -r '.cards.trophy.options.row // 3')
+            TROPHY_COLUMN=$(echo "$CONFIG" | jq -r '.cards.trophy.options.column // 7')
+            
+            URL="http://localhost:8081/?username=${USERNAME}&theme=${TROPHY_THEME}&no-bg=${TROPHY_NO_BG}&no-frame=${TROPHY_NO_FRAME}&row=${TROPHY_ROW}&column=${TROPHY_COLUMN}"
+            echo "🏆 Generating trophy card..."
+            curl -s "$URL" -o "generated-stats/${TROPHY_FILENAME}"
+            echo "✅ Generated: ${TROPHY_FILENAME}"
+          fi
+
           # Stop the servers
           kill $GRS_PID 2>/dev/null || true
           kill $STREAK_PID 2>/dev/null || true
-          
+          kill $TROPHY_PID 2>/dev/null || true
+
           echo ""
           echo "✨ Card generation complete!"
-      
+
       - name: Cleanup
         run: |
           rm -rf grs-temp
           rm -rf streak-temp
-      
+          rm -rf trophy-temp
+
       - name: Check for changes
         id: git-check
         run: |
@@ -188,7 +221,7 @@ jobs:
           else
             echo "changes=true" >> $GITHUB_OUTPUT
           fi
-      
+
       - name: Commit and push changes
         if: steps.git-check.outputs.changes == 'true'
         run: |

@@ -22,7 +22,13 @@
         "count_private": true,
         "include_all_commits": true,
         "hide_border": false,
-        "show": ["reviews", "discussions_started", "discussions_answered", "prs_merged", "prs_merged_percentage"]
+        "show": [
+          "reviews",
+          "discussions_started",
+          "discussions_answered",
+          "prs_merged",
+          "prs_merged_percentage"
+        ]
       }
     },
     "top_languages": {
@@ -42,6 +48,17 @@
         "theme": "tokyonight",
         "hide_border": false,
         "stroke": "0000"
+      }
+    },
+    "trophy": {
+      "enabled": true,
+      "filename": "trophy.svg",
+      "options": {
+        "theme": "onedark",
+        "no_bg": true,
+        "no_frame": false,
+        "row": 3,
+        "column": 7
       }
     },
     "repos": [],

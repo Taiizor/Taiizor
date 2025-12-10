@@ -80,5 +80,5 @@
 <h1 align="center">Github Profile Trophy 🏆</h1>
 
 <p align="center">
-  <a href="https://github.com/Taiizor"><img src="https://github-profile-trophy.vercel.app/?username=Taiizor&theme=onedark&no-bg=true" alt="Taiizor's GitHub Profile Trophy"/></a>
+  <a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/trophy.svg" alt="Taiizor's GitHub Profile Trophy"/></a>
 </p>

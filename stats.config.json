@@ -6,27 +6,27 @@
       "enabled": true,
       "filename": "stats.svg",
       "options": {
-        "theme": "tokyonight",
         "show_icons": true,
+        "hide_border": false,
         "count_private": true,
-        "include_all_commits": true,
-        "hide_border": false
+        "theme": "tokyonight",
+        "include_all_commits": true
       }
     },
     "stats_extended": {
       "enabled": true,
       "filename": "stats-extended.svg",
       "options": {
-        "theme": "tokyonight",
         "show_icons": true,
-        "count_private": true,
-        "include_all_commits": true,
         "hide_border": false,
+        "count_private": true,
+        "theme": "tokyonight",
+        "include_all_commits": true,
         "show": [
           "reviews",
+          "prs_merged",
           "discussions_started",
           "discussions_answered",
-          "prs_merged",
           "prs_merged_percentage"
         ]
       }
@@ -35,30 +35,30 @@
       "enabled": true,
       "filename": "top-langs.svg",
       "options": {
-        "theme": "tokyonight",
-        "layout": "compact",
         "langs_count": 8,
-        "hide_border": false
+        "layout": "compact",
+        "hide_border": false,
+        "theme": "tokyonight"
       }
     },
     "streak": {
       "enabled": true,
       "filename": "streak.svg",
       "options": {
-        "theme": "tokyonight",
+        "stroke": "0000",
         "hide_border": false,
-        "stroke": "0000"
+        "theme": "tokyonight"
       }
     },
     "trophy": {
       "enabled": true,
       "filename": "trophy.svg",
       "options": {
-        "theme": "onedark",
+        "row": 3,
+        "column": 7,
         "no_bg": true,
         "no_frame": false,
-        "row": 3,
-        "column": 7
+        "theme": "onedark"
       }
     },
     "repos": [],

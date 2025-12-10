@@ -84,8 +84,11 @@ jobs:
           cd ../..
 
           # Start Deno server for trophy (port 8081)
+          # Create .env file with TOKEN for trophy
+          echo "PORT=8081" > trophy-temp/.env
+          echo "GITHUB_TOKEN1=$TOKEN" >> trophy-temp/.env
           cd trophy-temp
-          PORT=8081 GITHUB_TOKEN=$TOKEN deno run -A main.ts &
+          deno run -A main.ts &
           TROPHY_PID=$!
           cd ..
 

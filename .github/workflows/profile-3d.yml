@@ -20,4 +20,4 @@ jobs:
           git config user.name Taiizor
           git config user.email 41683699+Taiizor@users.noreply.github.com
           git add -A .
-          git diff --staged --exit-code || (git commit -m "Generated 3D Profile" && git push)
+          git diff --staged --exit-code || (git commit -m "Generated 3D Profile" && git pull --rebase origin ${{ github.ref_name }} && git push)

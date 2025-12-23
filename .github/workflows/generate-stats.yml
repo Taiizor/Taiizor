@@ -231,4 +231,5 @@ jobs:
           git config user.name Taiizor
           git config user.email 41683699+Taiizor@users.noreply.github.com
           git commit -m "📊 Update GitHub stats cards"
-          git push
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin ${{ github.ref_name }}

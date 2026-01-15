@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Taiizor's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 3806, Total Commits  : 9189, Total PRs: 154, Total PRs Merged: 118, Merged PRs Percentage: 76.62, Total PRs Reviewed: 83, Total Issues: 47, Total Discussions Started: 37, Total Discussions Answered: 21, Contributed to (last year): 20</desc>
+        <desc id="descId">Total Stars Earned: 3810, Total Commits  : 9194, Total PRs: 155, Total PRs Merged: 119, Merged PRs Percentage: 76.77, Total PRs Reviewed: 83, Total Issues: 47, Total Discussions Started: 37, Total Discussions Answered: 21, Contributed to (last year): 21</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 15.005741717244229;
+        stroke-dashoffset: 14.902072315950615;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >154</text>
+      >155</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >118</text>
+      >119</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >76.62 %</text>
+      >76.77 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -297,7 +297,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >20</text>
+      >21</text>
     </g>
   </g>
     </svg>

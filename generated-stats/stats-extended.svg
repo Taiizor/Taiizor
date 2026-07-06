@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Taiizor's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4338, Total Commits  : 10182, Total PRs: 169, Total PRs Merged: 128, Merged PRs Percentage: 75.74, Total PRs Reviewed: 184, Total Issues: 48, Total Discussions Started: 40, Total Discussions Answered: 23, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 4340, Total Commits  : 10194, Total PRs: 170, Total PRs Merged: 129, Merged PRs Percentage: 75.88, Total PRs Reviewed: 185, Total Issues: 48, Total Discussions Started: 40, Total Discussions Answered: 23, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 13.208906973460788;
+        stroke-dashoffset: 13.125083711653689;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >169</text>
+      >170</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >128</text>
+      >129</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >75.74 %</text>
+      >75.88 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -237,7 +237,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >184</text>
+      >185</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">

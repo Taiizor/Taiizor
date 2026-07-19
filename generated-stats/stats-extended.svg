@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Taiizor's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4368, Total Commits  : 10264, Total PRs: 170, Total PRs Merged: 130, Merged PRs Percentage: 76.47, Total PRs Reviewed: 197, Total Issues: 48, Total Discussions Started: 40, Total Discussions Answered: 23, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 4369, Total Commits  : 10270, Total PRs: 170, Total PRs Merged: 130, Merged PRs Percentage: 76.47, Total PRs Reviewed: 197, Total Issues: 48, Total Discussions Started: 40, Total Discussions Answered: 23, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 13.111375800438415;
+        stroke-dashoffset: 13.111019864435752;
       }
     }
   

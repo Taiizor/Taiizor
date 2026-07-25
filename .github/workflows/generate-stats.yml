@@ -57,7 +57,7 @@ jobs:
       - name: Install Node dependencies
         run: |
           cd grs-temp
-          npm ci
+          npm install
 
       - name: Install PHP dependencies
         run: |

@@ -27,9 +27,9 @@ jobs:
         with:
           fetch-depth: 1
 
-      - name: Clone github-readme-stats
+      - name: Clone github-stats-extended
         run: |
-          git clone --depth 1 https://github.com/anuraghazra/github-readme-stats.git grs-temp
+          git clone --depth 1 https://github.com/stats-organization/github-stats-extended.git grs-temp
 
       - name: Clone github-readme-streak-stats
         run: |

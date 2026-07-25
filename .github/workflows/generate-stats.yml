@@ -66,8 +66,8 @@ jobs:
 
       - name: Read config and generate cards
         env:
-          PAT_1: ${{ secrets.GITHUB_TOKEN }}
-          TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_1: ${{ secrets.PAT_1 || secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+          TOKEN: ${{ secrets.PAT_1 || secrets.GH_PAT || secrets.GITHUB_TOKEN }}
         run: |
           # Start the Node.js server in background
           cd grs-temp

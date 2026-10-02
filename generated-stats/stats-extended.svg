@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Taiizor's GitHub Stats, Rank: A+</title>
-        <desc id="descId">Total Stars Earned: 4606, Total Commits  : 14764, Total PRs: 171, Total PRs Merged: 132, Merged PRs Percentage: 77.19, Total PRs Reviewed: 332, Total Issues: 92, Total Discussions Started: 42, Total Discussions Answered: 24, Contributed to (last year): 65</desc>
+        <desc id="descId">Total Stars Earned: 4609, Total Commits  : 14786, Total PRs: 173, Total PRs Merged: 134, Merged PRs Percentage: 77.46, Total PRs Reviewed: 332, Total Issues: 99, Total Discussions Started: 42, Total Discussions Answered: 24, Contributed to (last year): 65</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 9.032544298500136;
+        stroke-dashoffset: 8.585039726452111;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >171</text>
+      >173</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >132</text>
+      >134</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >77.19 %</text>
+      >77.46 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -252,7 +252,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >92</text>
+      >99</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">

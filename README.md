@@ -57,7 +57,6 @@ public class Developer : Human
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cs,c,rust,go,py,php,ts,js,html,css&theme=dark" alt="Core & Languages" />
     </a>
-    <img title="Visual Basic" src="./.images/Svg/skill-vb.svg" width="48" height="48" alt="Visual Basic" style="vertical-align: middle;" />
   </p>
 
   #### 🖥️ .NET & Desktop UI Ecosystem

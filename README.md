@@ -1,84 +1,184 @@
-<h1 align="center">Hello Universe! 🚀</h1>
+<div align="center">
 
-<p align="center">Hello! My name is.. Anyway, it doesn't matter. Here are a few more things below, but again, it doesn't matter. So nothing matters...</p>
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Taiizor&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%" alt="Taiizor Banner" />
 
-<h1 align="center">Connect With Me 📬</h1>
+  <!-- Animated Typing SVG -->
+  <a href="https://github.com/Taiizor">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=.NET+%26+C%23+Architect;Creator+of+ReaLTaiizor+%26+Sucrose;Tauri%2C+Rust+%26+Modern+Desktop+Engineer;Open+Source+Creator+%26+Maintainer" alt="Typing SVG" />
+  </a>
 
-<p align="left">
-  <p align="center">
-    <a href="mailto:taiizor@vegalya.com" target="_blank"><img align="center" alt="Mail" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Email.png" /></a>
-    <a href="https://www.youtube.com/@iTaiizor" target="_blank"><img align="center" alt="YouTube" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/YouTube.png" /></a>
-    <!--<a href="https://www.vegalya.com" target="_blank"><img align="center" alt="WebSite" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/WebSite.png" /></a>-->
-    <a href="https://www.facebook.com/iTaiizor" target="_blank"><img align="center" alt="Facebook" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Facebook.png" /></a>
-    <a href="https://www.instagram.com/Taiizor" target="_blank"><img align="center" alt="Instagram" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Instagram.png" /></a>
-    <a href="https://www.twitter.com/iTaiizor" target="_blank"><img align="center" alt="Twitter" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Twitter.png" /></a>
-    <a href="https://www.reddit.com/user/iTaiizor" target="_blank"><img align="center" alt="Reddit" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Reddit.png" /></a>
-    <a href="https://www.tiktok.com/@itaiizor" target="_blank"><img align="center" alt="Reddit" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/TikTok.png" /></a>
-    <a href="https://www.linkedin.com/in/Taiizor" target="_blank"><img align="center" alt="LinkedIn" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/LinkedIn.png" /></a>
-  </p>
-</p>
-
-<h1 align="center">Technologies & Languages 📜</h1>
-
-<p align="left">
-  <p align="center">
-    <img align="center" alt="VB" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VB.png" />
-    <img align="center" alt="C" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/C.png" />
-    <img align="center" alt="C#" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/C%23.png" />
-    <img align="center" alt="ASP.NET Core" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Asp.NETCore.png" />
-    <img align="center" alt="Blazor" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Blazor.png" />
-    <img align="center" alt=".NET Aspire" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Aspire.png" />
-    <img align="center" alt="Tauri" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Tauri.png" />
-    <img align="center" alt="MAUI" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/MAUI2.png" />
-    <img align="center" alt="Avalonia" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Avalonia.png" />
-    <img align="center" alt="Uno Platform" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Uno.png" />
-    <img align="center" alt="Python" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Python.png" />
-    <img align="center" alt="Go" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/GoLang.png" />
-    <img align="center" alt="Rust" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/RustLang.png" />
-    <img align="center" alt="PHP" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/PHP.png" />
-    <img align="center" alt="SQL" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/SQL.png" />
-    <img align="center" alt="Electron" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Electron.png" />
-    <img align="center" alt="React Native" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/ReactNative.png" />
-    <img align="center" alt="Next.js" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/NextJS.png" />
-    <img align="center" alt="Vue.js" width="32px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VueJS.png" />
-    <img align="center" alt="HTML 5" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/HTML5.png" />
-    <img align="center" alt="CSS 3" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/CSS3.png" />
-    <img align="center" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/TypeScript.png" />
-    <img align="center" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/JavaScript.png" />
-  </p>
-</p>
-
-<p>
-  <h1 align="center">Programs That I Use 💖</h1>
-</p>
-
-<p align="left">
-  <p align="center">
-    <img align="center" alt="Visual Studio 2022" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudio2022.png" />
-    <img align="center" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudioCode.png" />
-    <img align="center" alt="Visual Studio Mac" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/VisualStudioMac.png" />
-    <img align="center" alt="Docker" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Docker.png" />
-    <img align="center" alt="Adobe Photoshop" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Photoshop.png" />
-    <img align="center" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/UnrealEngine.png" />
-    <img align="center" alt="Unity" width="30px" src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/.images/Unity.png" />
-  </p>
-</p>
-
-<h1 align="center">My Profile Statistics 📊</h1>
-
-<p align="center">
-  <a href="https://github.com/Taiizor"><img src="https://komarev.com/ghpvc/?&label=Profile+Views&username=Taiizor&color=2984CC&style=flat" alt="Taiizor's GitHub Profile Guests"/></a>
   <br />
-  <a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/streak.svg" alt="Taiizor's GitHub Streak Stats"/></a>
-  <br />
-  <a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/stats.svg" alt="Taiizor's GitHub Stats"/></a>
-  <!--<a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/stats-extended.svg" alt="Taiizor's GitHub Stats"/></a>-->
-  <br />
-  <a href="https://github.com/Taiizor?tab=repositories"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/top-langs.svg" alt="Taiizor's GitHub Top Langs"/></a>
-</p>
 
-<h1 align="center">Github Profile Trophy 🏆</h1>
+  <!-- Social Badges -->
+  <p align="center">
+    <a href="https://vegalya.com" target="_blank"><img src="https://img.shields.io/badge/Website-vegalya.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://linkedin.com/in/Taiizor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Taiizor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://youtube.com/@iTaiizor" target="_blank"><img src="https://img.shields.io/badge/YouTube-@iTaiizor-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://x.com/iTaiizor" target="_blank"><img src="https://img.shields.io/badge/X-@iTaiizor-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://reddit.com/user/iTaiizor" target="_blank"><img src="https://img.shields.io/badge/Reddit-iTaiizor-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+    <a href="https://tiktok.com/@itaiizor" target="_blank"><img src="https://img.shields.io/badge/TikTok-@itaiizor-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+    <a href="https://instagram.com/Taiizor" target="_blank"><img src="https://img.shields.io/badge/Instagram-Taiizor-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:taiizor@vegalya.com"><img src="https://img.shields.io/badge/Email-taiizor@vegalya.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-<p align="center">
-  <a href="https://github.com/Taiizor"><img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/trophy.svg" alt="Taiizor's GitHub Profile Trophy"/></a>
-</p>
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Taiizor&label=Profile+Views&color=0ea5e9&style=flat-square" alt="Profile Views" />
+  </p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```csharp
+public class Developer : Human
+{
+    public string Name => "Taiizor";
+    public string Role => "Software Architect & Open Source Maintainer";
+    public string[] CoreStack => ["C#", ".NET", "Blazor", "Tauri", "Rust", "Go"];
+    public string Mission => "Designing beautiful UI frameworks, fast tools, and reliable systems.";
+}
+```
+
+* 🚀 **Open Source Creator:** Lead developer and maintainer of [**ReaLTaiizor**](https://github.com/Taiizor/ReaLTaiizor) (modern .NET WinForms theme & control suite) and [**Sucrose**](https://github.com/Taiizor/Sucrose) (desktop dynamic wallpaper engine).
+* 🔭 **Focus Areas:** Modern desktop architecture, native cross-platform performance (Tauri + Rust), high-throughput .NET libraries, and UI/UX design systems.
+* 💬 **Ask Me About:** C#, .NET Ecosystem, Blazor, WinForms Modernization, Tauri Plugins, Performance Tuning, and Desktop Engineering.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
+
+<div align="center">
+
+  #### Core & Programming Languages
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,tauri,go,py,php,ts,js,html,css&theme=dark" alt="Core & Languages" />
+  </a>
+
+  <br />
+
+  #### Frameworks, Web & UI Ecosystem
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,electron&theme=dark" alt="Web & UI" />
+  </a>
+
+  <br />
+
+  #### Tools, Databases & Platforms
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,mysql,postgres,mongodb,unity,unreal,git,github&theme=dark" alt="Tools & DBs" />
+  </a>
+
+</div>
+
+---
+
+### 🌟 Featured Open Source Projects
+
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Description</th>
+      <th align="center">Tech Stack</th>
+      <th align="center">Stars</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Taiizor/ReaLTaiizor"><b>ReaLTaiizor</b></a></td>
+      <td>Comprehensive, design-focused .NET WinForms control and theme library.</td>
+      <td align="center"><code>C#</code> <code>.NET</code> <code>WinForms</code></td>
+      <td align="center"><a href="https://github.com/Taiizor/ReaLTaiizor"><img src="https://img.shields.io/github/stars/Taiizor/ReaLTaiizor?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Taiizor/Sucrose"><b>Sucrose</b></a></td>
+      <td>Versatile, interactive wallpaper engine designed to bring desktops to life.</td>
+      <td align="center"><code>C#</code> <code>.NET</code> <code>Desktop</code></td>
+      <td align="center"><a href="https://github.com/Taiizor/Sucrose"><img src="https://img.shields.io/github/stars/Taiizor/Sucrose?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Taiizor/Blazouter"><b>Blazouter</b></a></td>
+      <td>Type-safe, React Router-inspired routing library for Blazor with nested routes.</td>
+      <td align="center"><code>C#</code> <code>Blazor</code> <code>Wasm</code></td>
+      <td align="center"><a href="https://github.com/Taiizor/Blazouter"><img src="https://img.shields.io/github/stars/Taiizor/Blazouter?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Taiizor/tauri-plugin-cache"><b>tauri-plugin-cache</b></a></td>
+      <td>Cross-platform disk & memory caching plugin for Tauri apps with TTL & compression.</td>
+      <td align="center"><code>Rust</code> <code>Tauri</code> <code>TypeScript</code></td>
+      <td align="center"><a href="https://github.com/Taiizor/tauri-plugin-cache"><img src="https://img.shields.io/github/stars/Taiizor/tauri-plugin-cache?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Taiizor/Zetian"><b>Zetian</b></a></td>
+      <td>High-performance SMTP server library for .NET with TLS/SSL and authentication.</td>
+      <td align="center"><code>C#</code> <code>.NET</code> <code>Networking</code></td>
+      <td align="center"><a href="https://github.com/Taiizor/Zetian"><img src="https://img.shields.io/github/stars/Taiizor/Zetian?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Taiizor/UUID"><b>UUID</b></a></td>
+      <td>High-performance, thread-safe UUID library for the modern .NET ecosystem.</td>
+      <td align="center"><code>C#</code> <code>.NET</code> <code>Security</code></td>
+      <td align="center"><a href="https://github.com/Taiizor/UUID"><img src="https://img.shields.io/github/stars/Taiizor/UUID?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🧊 3D Contribution Calendar
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/profile-3d-contrib/profile-night-rainbow.svg" alt="Taiizor 3D Contribution Calendar" width="100%" />
+  </picture>
+</div>
+
+---
+
+### 📊 GitHub Activity & Statistics
+
+<div align="center">
+  <a href="https://github.com/Taiizor">
+    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/streak.svg" alt="Taiizor GitHub Streak" />
+  </a>
+  <br /><br />
+  <a href="https://github.com/Taiizor">
+    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/stats.svg" alt="Taiizor GitHub Stats" height="195" />
+  </a>
+  <a href="https://github.com/Taiizor?tab=repositories">
+    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/top-langs.svg" alt="Taiizor Top Languages" height="195" />
+  </a>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/Taiizor">
+    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/trophy.svg" alt="Taiizor GitHub Trophies" width="100%" />
+  </a>
+</div>
+
+---
+
+### 🐍 Contribution Activity Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/github-contribution-grid-snake-dark.svg" alt="Taiizor Contribution Snake" width="100%" />
+  </picture>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=120&section=footer" width="100%" alt="Footer Banner" />
+</div>

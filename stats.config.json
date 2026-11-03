@@ -61,7 +61,32 @@
         "theme": "onedark"
       }
     },
-    "repos": [],
+    "repos": [
+      {
+        "repo": "ReaLTaiizor",
+        "filename": "ReaLTaiizor.svg",
+        "enabled": true,
+        "options": {
+          "theme": "tokyonight"
+        }
+      },
+      {
+        "repo": "Sucrose",
+        "filename": "Sucrose.svg",
+        "enabled": true,
+        "options": {
+          "theme": "tokyonight"
+        }
+      },
+      {
+        "repo": "Blazouter",
+        "filename": "Blazouter.svg",
+        "enabled": true,
+        "options": {
+          "theme": "tokyonight"
+        }
+      }
+    ],
     "gists": [],
     "wakatime": {
       "enabled": false

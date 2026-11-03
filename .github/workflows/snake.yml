@@ -1,0 +1,49 @@
+name: Generate Snake Contribution Grid
+
+on:
+  schedule:
+    # Run daily at midnight
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - develop
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Taiizor
+          outputs: |
+            generated-stats/github-contribution-grid-snake.svg
+            generated-stats/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Check for changes
+        id: git-check
+        run: |
+          git add generated-stats/
+          if git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changes == 'true'
+        run: |
+          git config user.name Taiizor
+          git config user.email 41683699+Taiizor@users.noreply.github.com
+          git commit -m "🐍 Update contribution snake animation"
+          git pull --rebase origin ${{ github.ref_name }}
+          git push origin ${{ github.ref_name }}

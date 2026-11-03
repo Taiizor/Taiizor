@@ -9,14 +9,14 @@
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="https://vegalya.com" target="_blank"><img src="https://img.shields.io/badge/Website-vegalya.com-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
-    <a href="https://linkedin.com/in/Taiizor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Taiizor-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://youtube.com/@iTaiizor" target="_blank"><img src="https://img.shields.io/badge/YouTube-@iTaiizor-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-    <a href="https://x.com/iTaiizor" target="_blank"><img src="https://img.shields.io/badge/X-@iTaiizor-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-    <a href="https://reddit.com/user/iTaiizor" target="_blank"><img src="https://img.shields.io/badge/Reddit-iTaiizor-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-    <a href="https://tiktok.com/@itaiizor" target="_blank"><img src="https://img.shields.io/badge/TikTok-@itaiizor-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-    <a href="https://instagram.com/Taiizor" target="_blank"><img src="https://img.shields.io/badge/Instagram-Taiizor-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:taiizor@vegalya.com"><img src="https://img.shields.io/badge/Email-taiizor@vegalya.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://vegalya.com" target="_blank"><img src="https://img.shields.io/badge/Website-4F46E5?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://linkedin.com/in/Taiizor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://youtube.com/@iTaiizor" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+    <a href="https://x.com/iTaiizor" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+    <a href="https://reddit.com/user/iTaiizor" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white" alt="Reddit" /></a>
+    <a href="https://tiktok.com/@itaiizor" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+    <a href="https://instagram.com/Taiizor" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="mailto:taiizor@vegalya.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
 
   <p align="center">

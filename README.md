@@ -34,7 +34,7 @@ public class Developer : Human
 {
     public string Name => "Taiizor";
     public string Role => "Software Architect & Open Source Maintainer";
-    public string[] CoreStack => ["C#", ".NET", "Blazor", "Tauri", "Rust", "Go"];
+    public string[] CoreStack => [".NET", "Rust", "Tauri", "TypeScript", "Go"];
     public string Mission => "Designing beautiful UI frameworks, fast tools, and reliable systems.";
 }
 ```

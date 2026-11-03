@@ -35,13 +35,10 @@ public class Developer : Human
     public string Name => "Taiizor";
     public string Role => "Software Architect & Open Source Maintainer";
     public string[] CoreStack => [".NET", "Rust", "Tauri", "TypeScript", "Go"];
+    public string[] FocusAreas => ["Desktop Architecture", "Cross-Platform Performance", "UI/UX Frameworks"];
     public string Mission => "Designing beautiful UI frameworks, fast tools, and reliable systems.";
 }
 ```
-
-* 🚀 **Open Source Creator:** Lead developer and maintainer of [**ReaLTaiizor**](https://github.com/Taiizor/ReaLTaiizor) (modern .NET WinForms theme & control suite) and [**Sucrose**](https://github.com/Taiizor/Sucrose) (desktop dynamic wallpaper engine).
-* 🔭 **Focus Areas:** Modern desktop architecture, native cross-platform performance (Tauri + Rust), high-throughput .NET libraries, and UI/UX design systems.
-* 💬 **Ask Me About:** C#, .NET Ecosystem, Blazor, WinForms Modernization, Tauri Plugins, Performance Tuning, and Desktop Engineering.
 
 ---
 

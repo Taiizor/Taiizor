@@ -83,7 +83,7 @@ public class Developer : Human
   #### 🗄️ Databases & Storage
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="Databases & Storage" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases & Storage" />
     </a>
   </p>
 

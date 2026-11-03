@@ -112,37 +112,37 @@ public class Developer : Human
       <td><a href="https://github.com/Taiizor/ReaLTaiizor"><b>ReaLTaiizor</b></a></td>
       <td>Comprehensive, design-focused .NET WinForms control and theme library.</td>
       <td align="center"><code>C#</code> <code>.NET</code> <code>WinForms</code></td>
-      <td align="center"><a href="https://github.com/Taiizor/ReaLTaiizor"><img src="https://img.shields.io/github/stars/Taiizor/ReaLTaiizor?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+      <td align="center"><a href="https://github.com/Taiizor/ReaLTaiizor"><img src="https://img.shields.io/github/stars/Taiizor/ReaLTaiizor?label=Stars&style=flat-square&color=38BDF8" alt="Stars" /></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Taiizor/Sucrose"><b>Sucrose</b></a></td>
       <td>Versatile, interactive wallpaper engine designed to bring desktops to life.</td>
       <td align="center"><code>C#</code> <code>.NET</code> <code>Desktop</code></td>
-      <td align="center"><a href="https://github.com/Taiizor/Sucrose"><img src="https://img.shields.io/github/stars/Taiizor/Sucrose?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+      <td align="center"><a href="https://github.com/Taiizor/Sucrose"><img src="https://img.shields.io/github/stars/Taiizor/Sucrose?label=Stars&style=flat-square&color=38BDF8" alt="Stars" /></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Taiizor/Blazouter"><b>Blazouter</b></a></td>
       <td>Type-safe, React Router-inspired routing library for Blazor with nested routes.</td>
       <td align="center"><code>C#</code> <code>Blazor</code> <code>Wasm</code></td>
-      <td align="center"><a href="https://github.com/Taiizor/Blazouter"><img src="https://img.shields.io/github/stars/Taiizor/Blazouter?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+      <td align="center"><a href="https://github.com/Taiizor/Blazouter"><img src="https://img.shields.io/github/stars/Taiizor/Blazouter?label=Stars&style=flat-square&color=38BDF8" alt="Stars" /></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Taiizor/tauri-plugin-cache"><b>tauri-plugin-cache</b></a></td>
       <td>Cross-platform disk & memory caching plugin for Tauri apps with TTL & compression.</td>
       <td align="center"><code>Rust</code> <code>Tauri</code> <code>TypeScript</code></td>
-      <td align="center"><a href="https://github.com/Taiizor/tauri-plugin-cache"><img src="https://img.shields.io/github/stars/Taiizor/tauri-plugin-cache?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+      <td align="center"><a href="https://github.com/Taiizor/tauri-plugin-cache"><img src="https://img.shields.io/github/stars/Taiizor/tauri-plugin-cache?label=Stars&style=flat-square&color=38BDF8" alt="Stars" /></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Taiizor/Zetian"><b>Zetian</b></a></td>
       <td>High-performance SMTP server library for .NET with TLS/SSL and authentication.</td>
       <td align="center"><code>C#</code> <code>.NET</code> <code>Networking</code></td>
-      <td align="center"><a href="https://github.com/Taiizor/Zetian"><img src="https://img.shields.io/github/stars/Taiizor/Zetian?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+      <td align="center"><a href="https://github.com/Taiizor/Zetian"><img src="https://img.shields.io/github/stars/Taiizor/Zetian?label=Stars&style=flat-square&color=38BDF8" alt="Stars" /></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Taiizor/UUID"><b>UUID</b></a></td>
       <td>High-performance, thread-safe UUID library for the modern .NET ecosystem.</td>
       <td align="center"><code>C#</code> <code>.NET</code> <code>Security</code></td>
-      <td align="center"><a href="https://github.com/Taiizor/UUID"><img src="https://img.shields.io/github/stars/Taiizor/UUID?style=flat-square&color=38BDF8" alt="Stars" /></a></td>
+      <td align="center"><a href="https://github.com/Taiizor/UUID"><img src="https://img.shields.io/github/stars/Taiizor/UUID?label=Stars&style=flat-square&color=38BDF8" alt="Stars" /></a></td>
     </tr>
   </tbody>
 </table>

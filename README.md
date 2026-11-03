@@ -52,7 +52,7 @@ public class Developer : Human
   #### ⚡ Core & Programming Languages
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,c,cpp,rust,go,py,php,ts,js,html,css,kotlin,swift,dart&theme=dark" alt="Core & Languages" />
+      <img src="https://skillicons.dev/icons?i=cs,c,cpp,rust,go,py,php,ts,js,html,css,kotlin,swift,dart,lua&theme=dark" alt="Core & Languages" />
     </a>
   </p>
 
@@ -71,7 +71,7 @@ public class Developer : Human
   #### 🌐 Web, Mobile & Runtime
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,flutter,bun&theme=dark" alt="Web, Mobile & Runtime" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,tailwind,vite,wasm,flutter,bun&theme=dark" alt="Web, Mobile & Runtime" />
     </a>
   </p>
 
@@ -85,7 +85,7 @@ public class Developer : Human
   #### 🧰 Tools, Engines & Platforms
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,photoshop,unity,unreal,git,github,githubactions&theme=dark" alt="Tools, Engines & Platforms" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,cmake,photoshop,unity,unreal,git,github,githubactions&theme=dark" alt="Tools, Engines & Platforms" />
     </a>
   </p>
 

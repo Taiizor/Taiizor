@@ -35,8 +35,8 @@ public class Developer : Human
     public string Name => "Taiizor";
     public string Role => "Software Architect & Open Source Maintainer";
     public string[] CoreStack => [".NET", "Rust", "Tauri", "TypeScript", "Go"];
-    public string[] FocusAreas => ["Desktop Architecture", "Cross-Platform Performance", "UI/UX Frameworks"];
     public string Mission => "Designing beautiful UI frameworks, fast tools, and reliable systems.";
+    public string[] FocusAreas => ["Desktop Architecture", "Cross-Platform Performance", "UI/UX Frameworks"];
 }
 ```
 

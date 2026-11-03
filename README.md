@@ -73,12 +73,11 @@ public class Developer : Human
     <img title="Uno Platform" src="./.images/Svg/skill-uno.svg" width="48" height="48" alt="Uno Platform" style="vertical-align: middle;" />
   </p>
 
-  #### 🌐 Web & Mobile Frontend
+  #### 🌐 Web Frontend & Frameworks
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" alt="Web & Mobile" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" alt="Web Frontend & Frameworks" />
     </a>
-    <img title="React Native" src="./.images/Svg/skill-reactnative.svg" width="48" height="48" alt="React Native" style="vertical-align: middle;" />
   </p>
 
   #### 🗄️ Databases & Storage

@@ -65,7 +65,6 @@ public class Developer : Human
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=dotnet,tauri,electron&theme=dark" alt=".NET & Desktop" />
     </a>
-    <img title="ASP.NET Core" src="./.images/Svg/skill-aspnetcore.svg" width="48" height="48" alt="ASP.NET Core" style="vertical-align: middle;" />
     <img title="Blazor" src="./.images/Svg/skill-blazor.svg" width="48" height="48" alt="Blazor" style="vertical-align: middle;" />
     <img title=".NET Aspire" src="./.images/Svg/skill-aspire.svg" width="48" height="48" alt=".NET Aspire" style="vertical-align: middle;" />
     <img title="Avalonia UI" src="./.images/Svg/skill-avalonia.svg" width="48" height="48" alt="Avalonia UI" style="vertical-align: middle;" />

@@ -132,9 +132,9 @@ public class Developer : Human
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/profile-3d-contrib/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/profile-3d-contrib/profile-night-rainbow.svg" alt="Taiizor 3D Contribution Calendar" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Taiizor 3D Contribution Calendar" width="100%" />
   </picture>
 </div>
 
@@ -144,14 +144,14 @@ public class Developer : Human
 
 <div align="center">
   <a href="https://github.com/Taiizor">
-    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/streak.svg" alt="Taiizor GitHub Streak" />
+    <img src="./generated-stats/streak.svg" alt="Taiizor GitHub Streak" />
   </a>
   <br /><br />
   <a href="https://github.com/Taiizor">
-    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/stats.svg" alt="Taiizor GitHub Stats" height="195" />
+    <img src="./generated-stats/stats.svg" alt="Taiizor GitHub Stats" height="195" />
   </a>
   <a href="https://github.com/Taiizor?tab=repositories">
-    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/top-langs.svg" alt="Taiizor Top Languages" height="195" />
+    <img src="./generated-stats/top-langs.svg" alt="Taiizor Top Languages" height="195" />
   </a>
 </div>
 
@@ -161,7 +161,7 @@ public class Developer : Human
 
 <div align="center">
   <a href="https://github.com/Taiizor">
-    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/trophy.svg" alt="Taiizor GitHub Trophies" width="100%" />
+    <img src="./generated-stats/trophy.svg" alt="Taiizor GitHub Trophies" width="100%" />
   </a>
 </div>
 
@@ -171,9 +171,9 @@ public class Developer : Human
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/Taiizor/Taiizor/develop/generated-stats/github-contribution-grid-snake-dark.svg" alt="Taiizor Contribution Snake" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./generated-stats/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./generated-stats/github-contribution-grid-snake.svg" />
+    <img src="./generated-stats/github-contribution-grid-snake-dark.svg" alt="Taiizor Contribution Snake" width="100%" />
   </picture>
 </div>
 

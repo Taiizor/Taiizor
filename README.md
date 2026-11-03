@@ -57,7 +57,7 @@ public class Developer : Human
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=cs,c,rust,go,py,php,ts,js,html,css,powershell&theme=dark" alt="Core & Languages" />
     </a>
-    <img title="Visual Basic" src="./.images/VB.png" width="40" height="40" alt="Visual Basic" style="vertical-align: middle;" />
+    <img title="Visual Basic" src="./.images/Svg/skill-vb.svg" width="48" height="48" alt="Visual Basic" style="vertical-align: middle;" />
   </p>
 
   #### 🖥️ .NET & Desktop UI Ecosystem
@@ -65,12 +65,12 @@ public class Developer : Human
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=dotnet,tauri,electron&theme=dark" alt=".NET & Desktop" />
     </a>
-    <img title="ASP.NET Core" src="./.images/Asp.NETCore.png" width="40" height="40" alt="ASP.NET Core" style="vertical-align: middle;" />
-    <img title="Blazor" src="./.images/Blazor.png" width="40" height="40" alt="Blazor" style="vertical-align: middle;" />
-    <img title=".NET Aspire" src="./.images/Aspire.png" width="40" height="40" alt=".NET Aspire" style="vertical-align: middle;" />
-    <img title="Avalonia UI" src="./.images/Avalonia.png" width="40" height="40" alt="Avalonia UI" style="vertical-align: middle;" />
-    <img title=".NET MAUI" src="./.images/MAUI2.png" width="40" height="40" alt=".NET MAUI" style="vertical-align: middle;" />
-    <img title="Uno Platform" src="./.images/Uno.png" width="40" height="40" alt="Uno Platform" style="vertical-align: middle;" />
+    <img title="ASP.NET Core" src="./.images/Svg/skill-aspnetcore.svg" width="48" height="48" alt="ASP.NET Core" style="vertical-align: middle;" />
+    <img title="Blazor" src="./.images/Svg/skill-blazor.svg" width="48" height="48" alt="Blazor" style="vertical-align: middle;" />
+    <img title=".NET Aspire" src="./.images/Svg/skill-aspire.svg" width="48" height="48" alt=".NET Aspire" style="vertical-align: middle;" />
+    <img title="Avalonia UI" src="./.images/Svg/skill-avalonia.svg" width="48" height="48" alt="Avalonia UI" style="vertical-align: middle;" />
+    <img title=".NET MAUI" src="./.images/Svg/skill-maui.svg" width="48" height="48" alt=".NET MAUI" style="vertical-align: middle;" />
+    <img title="Uno Platform" src="./.images/Svg/skill-uno.svg" width="48" height="48" alt="Uno Platform" style="vertical-align: middle;" />
   </p>
 
   #### 🌐 Web & Mobile Frontend
@@ -78,7 +78,7 @@ public class Developer : Human
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" alt="Web & Mobile" />
     </a>
-    <img title="React Native" src="./.images/ReactNative.png" width="40" height="40" alt="React Native" style="vertical-align: middle;" />
+    <img title="React Native" src="./.images/Svg/skill-reactnative.svg" width="48" height="48" alt="React Native" style="vertical-align: middle;" />
   </p>
 
   #### 🗄️ Databases & Storage

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" fill="none">
+  <rect width="256" height="256" rx="60" fill="#242938"/>
+  <path fill="#512BD4" d="M128 36 L212 68 V140 C212 188 128 220 128 220 C128 220 44 188 44 140 V68 Z"/>
+  <path fill="none" stroke="#8A6FE8" stroke-width="4" d="M128 44 L204 73 V136 C204 180 128 210 128 210 C128 210 52 180 52 136 V73 Z"/>
+  <text x="128" y="122" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="900" font-size="30" fill="#ffffff" letter-spacing="0.5">ASP.NET</text>
+  <text x="128" y="156" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-weight="800" font-size="24" fill="#67E5AD" letter-spacing="2">CORE</text>
+</svg>

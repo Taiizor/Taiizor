@@ -52,7 +52,7 @@ public class Developer : Human
   #### ⚡ Core & Programming Languages
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,c,rust,go,py,php,ts,js,html,css&theme=dark" alt="Core & Languages" />
+      <img src="https://skillicons.dev/icons?i=cs,c,cpp,rust,go,py,php,ts,js,html,css,kotlin,swift,dart&theme=dark" alt="Core & Languages" />
     </a>
   </p>
 
@@ -68,24 +68,24 @@ public class Developer : Human
     <img title="Uno Platform" src="./.images/Svg/skill-uno.svg" width="48" height="48" alt="Uno Platform" style="vertical-align: middle;" />
   </p>
 
-  #### 🌐 Web Frontend & Frameworks
+  #### 🌐 Web, Mobile & Runtime
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" alt="Web Frontend & Frameworks" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,flutter,bun&theme=dark" alt="Web, Mobile & Runtime" />
     </a>
   </p>
 
-  #### 🗄️ Databases & Storage
+  #### 🗄️ Databases, Caching & Queues
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases & Storage" />
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,rabbitmq,kafka&theme=dark" alt="Databases, Caching & Queues" />
     </a>
   </p>
 
-  #### 🧰 Tools, Engines & Software
+  #### 🧰 Tools, Engines & Platforms
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,photoshop,unity,unreal,git,github&theme=dark" alt="Tools & Software" />
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,photoshop,unity,unreal,git,github,githubactions&theme=dark" alt="Tools, Engines & Platforms" />
     </a>
   </p>
 

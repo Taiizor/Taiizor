@@ -1,8 +1,5 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Taiizor&fontSize=70&fontAlignY=35&animation=fadeIn" width="100%" alt="Taiizor Banner" />
-
   <!-- Animated Typing SVG -->
   <a href="https://github.com/Taiizor">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=.NET+%26+C%23+Architect;Creator+of+ReaLTaiizor+%26+Sucrose;Tauri%2C+Rust+%26+Modern+Desktop+Engineer;Open+Source+Creator+%26+Maintainer" alt="Typing SVG" />
@@ -198,8 +195,4 @@ public class Developer : Human
   </picture>
 </div>
 
-<br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=120&section=footer" width="100%" alt="Footer Banner" />
-</div>

@@ -52,24 +52,48 @@ public class Developer : Human
 
 <div align="center">
 
-  #### Core & Programming Languages
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,rust,tauri,go,py,php,ts,js,html,css&theme=dark" alt="Core & Languages" />
-  </a>
+  #### ⚡ Core & Programming Languages
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=cs,c,rust,go,py,php,ts,js,html,css,powershell&theme=dark" alt="Core & Languages" />
+    </a>
+    <img title="Visual Basic" src="./.images/VB.png" width="40" height="40" alt="Visual Basic" style="vertical-align: middle;" />
+  </p>
 
-  <br />
+  #### 🖥️ .NET & Desktop UI Ecosystem
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=dotnet,tauri,electron&theme=dark" alt=".NET & Desktop" />
+    </a>
+    <img title="ASP.NET Core" src="./.images/Asp.NETCore.png" width="40" height="40" alt="ASP.NET Core" style="vertical-align: middle;" />
+    <img title="Blazor" src="./.images/Blazor.png" width="40" height="40" alt="Blazor" style="vertical-align: middle;" />
+    <img title=".NET Aspire" src="./.images/Aspire.png" width="40" height="40" alt=".NET Aspire" style="vertical-align: middle;" />
+    <img title="Avalonia UI" src="./.images/Avalonia.png" width="40" height="40" alt="Avalonia UI" style="vertical-align: middle;" />
+    <img title=".NET MAUI" src="./.images/MAUI2.png" width="40" height="40" alt=".NET MAUI" style="vertical-align: middle;" />
+    <img title="Uno Platform" src="./.images/Uno.png" width="40" height="40" alt="Uno Platform" style="vertical-align: middle;" />
+  </p>
 
-  #### Frameworks, Web & UI Ecosystem
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vue,nextjs,tailwind,electron&theme=dark" alt="Web & UI" />
-  </a>
+  #### 🌐 Web & Mobile Frontend
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind&theme=dark" alt="Web & Mobile" />
+    </a>
+    <img title="React Native" src="./.images/ReactNative.png" width="40" height="40" alt="React Native" style="vertical-align: middle;" />
+  </p>
 
-  <br />
+  #### 🗄️ Databases & Storage
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb&theme=dark" alt="Databases & Storage" />
+    </a>
+  </p>
 
-  #### Tools, Databases & Platforms
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,mysql,postgres,mongodb,unity,unreal,git,github&theme=dark" alt="Tools & DBs" />
-  </a>
+  #### 🧰 Tools, Engines & Software
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=visualstudio,vscode,docker,photoshop,unity,unreal,git,github&theme=dark" alt="Tools & Software" />
+    </a>
+  </p>
 
 </div>
 
